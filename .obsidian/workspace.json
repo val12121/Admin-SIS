@@ -165,12 +165,12 @@
               "title": "Esquema de 01. Usuarios y equipos en Linux"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,6 +185,7 @@
   },
   "active": "9ae0b329b1a6ba32",
   "lastOpenFiles": [
+    "sudo.md",
     "01. Usuarios y equipos en Linux.md"
   ]
 }
